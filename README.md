@@ -40,7 +40,7 @@
  
  
 
-# Pinned
+# Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leone-sh&repo=pygramy&theme=tokyonight)](https://github.com/leone-sh/pygramy)
 
 
