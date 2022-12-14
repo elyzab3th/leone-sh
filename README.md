@@ -5,11 +5,11 @@
 
 # My stacks
 
-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-- ![Python](https://img.shields.io/badge/-Python3-05122A?style=flat&logo=python)&nbsp;
-- <img src="https://img.icons8.com/color/512/bash.png" width="30" height="30">
+ ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+ ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ ![Python](https://img.shields.io/badge/-Python3-05122A?style=flat&logo=python)&nbsp;
+ <img src="https://img.icons8.com/color/512/bash.png" width="30" height="30">
 
 # Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leone-sh&color=yellow" alt="Profile views" /> </p>
@@ -17,8 +17,10 @@
 #
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=leone-sh&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leone-sh&layout=compact&theme=tokyonight">
 
 
-<img width="400" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=leone-sh&show_icons=true&theme=tokyonight">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leone-sh&layout=compact&theme=tokyonight">
+# Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leone-sh&repo=pygramy)](https://github.com/anuraghazra/github-readme-stats)
