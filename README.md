@@ -19,6 +19,6 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=leone-sh&show_icons=true&theme=tokyonight">
+<img width="600" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=leone-sh&show_icons=true&theme=tokyonight">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leone-sh&layout=compact&theme=tokyonight">
