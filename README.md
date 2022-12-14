@@ -2,25 +2,43 @@
 
 ## Evething I'm doing here is just sharing my knowledge and just trying to contribute for Open Source comunnity across from my CLI programs.
 
-
-# My stacks
-
- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
- ![Python](https://img.shields.io/badge/-Python3-05122A?style=flat&logo=python)&nbsp;
- <img src="https://img.icons8.com/color/512/bash.png" width="30" height="30">
-
 # Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leone-sh&color=yellow" alt="Profile views" /> </p>
 
 #
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=leone-sh&show_icons=true&theme=tokyonight">
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leone-sh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leone-sh&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leone-sh&layout=compact&theme=tokyonight">
 
+</div>
+<div style="display: inline_block"><br>
+ 
+
+
+ 
+ 
+ <img align="center" alt="leone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+
+ 
+ <img align="center" alt="leone-linux"  style="border-radius:50px;" src="https://icongr.am/devicon/linux-plain.svg?size=48&color=000000">
+
+ 
+ <img align="center" alt="leone-debian" src="https://icongr.am/devicon/debian-plain.svg?size=48&color=db0a0a">
+
+ <img src="https://img.icons8.com/color/512/bash.png" width="40" height="40">
+ 
+</div>
+ 
+ 
+ 
 
 # Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leone-sh&repo=pygramy&theme=tokyonight)](https://github.com/leone-sh/pygramy)
+
+
