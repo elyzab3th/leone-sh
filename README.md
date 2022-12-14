@@ -41,6 +41,9 @@
  
 
 # Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leone-sh&repo=pygramy&theme=tokyonight)](https://github.com/leone-sh/pygramy)
 
+<div>
 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leone-sh&repo=pygramy&theme=tokyonight" href="https://github.com/leone-sh/pygramy">
+
+</div>
