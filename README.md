@@ -12,9 +12,13 @@
 - <img src="https://img.icons8.com/color/512/bash.png" width="30" height="30">
 
 # Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandro-sh&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leone-sh&color=yellow" alt="Profile views" /> </p>
 
 #
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leandro-sh&show_icons=true&theme=vision-friendly-dark" alt="leone-sh's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-sh&layout=compact&theme=vision-friendly-dark" alt="leandro-sh's most languages"/>
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=leone-sh&show_icons=true&theme=tokyonight">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leone-sh&layout=compact&theme=tokyonight">
