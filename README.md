@@ -3,7 +3,13 @@
 ## Evething I'm doing here is just sharing my knowledge and just trying to contribute for Open Source comunnity across from my CLI programs.
 
 # Views
+<details><summary>CLICK ME</summary>
+<p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leone-sh&color=yellow" alt="Profile views" /> </p>
+
+</p>
+</details>
 
 #
 
@@ -42,8 +48,15 @@
 
 # Repos
 
+<details><summary>Main Repository</summary>
+<p>
+
 <div>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leone-sh&repo=pygramy&theme=tokyonight)](https://github.com/leone-sh/pygramy)
   
 </div>
+
+</p>
+</details>
+  
